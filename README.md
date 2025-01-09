@@ -1,7 +1,3 @@
-Voici le contenu suggéré pour le fichier README du dépôt GitHub [MbtiProject](https://github.com/Ivey00/MbtiProject) :
-
----
-
 # MbtiProject
 
 ![image](https://github.com/user-attachments/assets/00eea8a5-1600-4626-a92f-f66819b87ac6)
